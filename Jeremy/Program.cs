@@ -14,7 +14,7 @@ namespace Jeremy
 
             Console.WriteLine("Looking good. It just takes some time to get used to the process.");
 
-
+            //This is now the teacherBranch that you are looking at
         }
     }
 }
