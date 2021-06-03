@@ -9,6 +9,8 @@ namespace Jeremy
             Console.WriteLine("Hello World!");
             Console.WriteLine("hello");
 
+            Console.WriteLine("after opening in the folder menu.");
+
         }
     }
 }
