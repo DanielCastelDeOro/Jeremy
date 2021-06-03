@@ -10,6 +10,8 @@ namespace Jeremy
             Console.WriteLine("hello");
 
             Console.WriteLine("after opening in the folder menu.");
+            Console.WriteLine("i think im getting it");
+
 
         }
     }
